@@ -1,0 +1,4 @@
+City/locality names and aliases: GeoNames, https://www.geonames.org/
+Source: https://download.geonames.org/export/dump/
+License: Creative Commons Attribution 4.0, https://creativecommons.org/licenses/by/4.0/
+Retrieved: 2026-08-31. Changes: filtered to 46 supported economies, fields reduced, records grouped by country, merged with 98 curated demo locations. Names and administrative classifications may vary and are not guaranteed complete or current. GeoNames supplies place names only; financial figures remain fictional.
